@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This assignment focuses on understanding Python's fundamental data structures, particularly Strings and Tuples. It covers string manipulation techniques and tuple operations through practical Python programming exercises.
+This Project focuses on understanding Python's fundamental data structures, particularly Strings and Tuples. It covers string manipulation techniques and tuple operations through practical Python programming exercises.
 
 ## Objectives
 
